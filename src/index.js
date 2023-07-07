@@ -1,1 +1,1 @@
-console.log("Testing site");
+import './css/common.css';
